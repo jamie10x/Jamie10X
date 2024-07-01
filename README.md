@@ -128,9 +128,6 @@ I am eager to connect with other tech professionals, discuss new projects, and s
 
   </div>
 
- <details>
-  <summary><h2> <img align="center" src="https://github.com/Jamie10X/Jamie10X/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-
   ### GitHub
   <div align="center">
 
