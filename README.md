@@ -50,6 +50,7 @@ I am eager to connect with other tech professionals, discuss new projects, and s
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/Jamie10X/Jamie10X/blob/main/icons/coding.gif" width="29"/> Coding Handles</h4></summary>
+  
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/Jamie1023)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jamie10X)
   [![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/JamshidbekBoynazarov)
