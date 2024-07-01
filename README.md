@@ -140,7 +140,7 @@ I am eager to connect with other tech professionals, discuss new projects, and s
 </details>
 
 <details>
-  <summary><h2> <img align='center' src='https://github.com/Jamie10X/Jamie10X/blob/main/icons/social.gif' width='37' /> Socials</h2></summary>
+  <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif'  width='37' /> Socials</h2></summary>
 
 <div align="center">
   <a href="https://github.com/Jamie10X">
