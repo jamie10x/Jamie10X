@@ -59,11 +59,14 @@ I am eager to connect with other tech professionals, discuss new projects, and s
 <details>
   <summary><h4> <img align="center" src="https://github.com/Jamie10X/Jamie10X/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
 
-  #### Core Languages
+  #### Languages
   ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
   #### Web Development
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -98,7 +101,7 @@ I am eager to connect with other tech professionals, discuss new projects, and s
   - **Impact:** Streamlined tournament management, enhancing user engagement and significantly increasing the number of organized events.
 
   #### [InkSpire](https://github.com/Jamie10X/InkSpire)
-  <span><img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android_SDK-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>
   - Developed a blog publishing Website inspired by platforms like Medium, designed to facilitate content creation and distribution.
   - Features include rich text editing.
   - **Impact:** Enabled writers to reach a wider audience with their content, significantly enhancing user engagement and contributing to a vibrant community of readers and contributors.
