@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Jamie10X/Jamie10X/main/icons/Hi.gif" width="28px"/>, I'm Jamshidbek</h1>
+<h1 align="center">Hi <img src="https://github.com/Jamie10X/Jamie10X/blob/main/icons/Hi.gif" width="28px"/>, I'm Jamshidbek</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Android Developer
