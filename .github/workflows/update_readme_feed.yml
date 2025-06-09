@@ -1,17 +1,12 @@
-# .github/workflows/update_readme_feed.yml
 name: Update README with Latest Blog Post
 
 on:
   schedule:
-    # Runs every 12 hours to check for new blog posts.
     - cron: '0 */12 * * *'
-  workflow_dispatch: # Allows manual run from the Actions tab.
+  workflow_dispatch:
 
-# START: --- ADD THIS BLOCK ---
-# This gives the workflow the necessary permissions to write to the repository.
 permissions:
   contents: write
-# END: --- ADD THIS BLOCK ---
 
 jobs:
   build:
@@ -36,9 +31,15 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          if git diff-index --quiet HEAD; then
-            echo "No changes to commit."
-          else
+          
+          # Only proceed if there are actual changes to commit
+          if ! git diff-index --quiet HEAD; then
             git commit -m "chore: Update latest Android blog post"
+          
+            git pull --rebase
+          
+            # Now, push the changes.
             git push
+          else
+            echo "No changes to commit."
           fi
