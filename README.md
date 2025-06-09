@@ -52,7 +52,7 @@ Building native android applications.
 *   **Testing:** ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) ![Espresso](https://img.shields.io/badge/Espresso-brown?style=flat-square&logo=android&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-blue?style=flat-square) ![Turbine](https://img.shields.io/badge/Turbine-teal?style=flat-square)
 
 #### Backend, Tools & Platforms
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-208FF?style=flat-square&logo=githubactions&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
 ## <img align="center" src="https://i.giphy.com/media/1kTNpVyA74h9S/giphy.gif" width="28"/> Always Learning
@@ -67,43 +67,33 @@ This section will be updated by the GitHub action.
 
 ## <img align="center" src="https://i.giphy.com/media/l49JHz72e2y2lO9iM/giphy.gif" width="28" /> My Stats & Activity
 
-<!-- Side-by-side layout for main stats and the snake animation -->
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jamie10X&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&hide=issues,prs" />
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamie10X&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-        </a>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <div align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamie10X/Jamie10X/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamie10X/Jamie10X/output/github-contribution-grid-snake.svg">
-          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jamie10X/Jamie10X/output/github-contribution-grid-snake.svg">
-        </picture>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<!-- This is the newly added section for the summary cards -->
+<!-- This div will center all the new stat cards in a single column -->
 <div align="center">
+
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Jamshidbek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jamie10X&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+
+  <!-- Top Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Jamshidbek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamie10X&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+
+  <!-- Productive Time Card (Commit graph) -->
+  <!-- IMPORTANT: Replace +5.5 with your actual UTC offset for accurate timing! -->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <!-- IMPORTANT: Replace +5.5 with your actual UTC offset -->
     <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamie10X&theme=tokyonight&utc_offset=+5.5" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img alt="GitHub Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jamie10X&theme=tokyonight" />
+
+  <!-- Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Jamshidbek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jamie10X&bg_color=1a1b27&color=c0caf5&line=82aae0&point=ff9e64&area=true&hide_border=true" />
   </a>
+
 </div>
 
-<!-- Centered coding profiles -->
+<!-- Coding Profiles -->
 <div align="center">
   <h3>Coding Profiles</h3>
   <p>
