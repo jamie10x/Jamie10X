@@ -1,3 +1,4 @@
+# .github/workflows/update_readme_feed.yml
 name: Update README with Latest Blog Post
 
 on:
@@ -13,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
+        # Use a Personal Access Token (PAT) for more reliable checkouts if needed,
+        # but the GITHUB_TOKEN should work with the permissions block.
         uses: actions/checkout@v3
 
       - name: Setup Python
@@ -26,19 +29,23 @@ jobs:
       - name: Run Python script to update README
         run: python ./scripts/update_readme.py
 
-      - name: Commit and push if there are changes
+      - name: Commit and push changes
         run: |
+          # Configure git with the action's identity
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+          # Add the changed file
           git add README.md
           
-          # Only proceed if there are actual changes to commit
+          # Check if there are changes to commit
           if ! git diff-index --quiet HEAD; then
+            # Commit the changes
             git commit -m "chore: Update latest Android blog post"
+
+            git pull --rebase --autostash
           
-            git pull --rebase
-          
-            # Now, push the changes.
+            # Push the updated branch
             git push
           else
             echo "No changes to commit."
