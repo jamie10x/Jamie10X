@@ -1,17 +1,17 @@
-<h1 >Hi <img src="https://github.com/Jamie10X/Jamie10X/blob/main/icons/Hi.gif" width="28px"  alt="Hi"/>, I'm Jamshidbek</h1>
-<h2 >
+<h1 align="center">Hi <img src="https://github.com/Jamie10X/Jamie10X/blob/main/icons/Hi.gif" width="28px"/>, I'm Jamshidbek</h1>
+<h2 align="center">
   Android Developer | Building Performant & User-Centric Apps
 </h2>
 
 <!-- Personal hook section -->
-<p >
+<p align="center">
   🔭 Currently exploring Kotlin Multiplatform (KMP) performance tuning. <br/>
   💬 Ask me about Clean Architecture, Jetpack Compose, or anything Android! <br/>
   ⚡ Fun Fact: My first "Hello World" app was a simple tip calculator... I've learned a lot since then!
 </p>
 
 <!-- Social media and contact badges -->
-<div >
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jamie10X&color=dc143c&style=flat-square" alt="Profile Views"/>
   <!-- Make sure to update your portfolio link or remove this badge -->
   <a href="#">
@@ -37,7 +37,7 @@ Building native android applications.
 
 ---
 
-## <img align="center" src="https://github.com/jamie10x/Jamie10X/blob/main/icons/techstack.gif" width="28"/> My Tech Stack
+## <img align="center" src="https://github.com/Jamie10X/Jamie10X/blob/main/icons/techstack.gif" width="28"/> My Tech Stack
 
 #### Programming Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
@@ -54,25 +54,24 @@ Building native android applications.
 #### Backend, Tools & Platforms
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
 
 ## <img align="center" src="https://i.giphy.com/media/1kTNpVyA74h9S/giphy.gif" width="28"/> Always Learning
 
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-This section will be updated by the GitHub action we created.
+This section will be updated by the GitHub action.
 <!--END_SECTION:learn-->
 
 ---
 
 ## <img align="center" src="https://i.giphy.com/media/l49JHz72e2y2lO9iM/giphy.gif" width="28" /> My Stats & Activity
 
-<!-- This table creates the side-by-side layout for stats and the snake animation -->
+<!-- Side-by-side layout for main stats and the snake animation -->
 <table>
   <tr>
-    <td  >
-      <div >
+    <td valign="top" width="50%">
+      <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jamie10X&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&hide=issues,prs" />
         </a>
@@ -81,8 +80,8 @@ This section will be updated by the GitHub action we created.
         </a>
       </div>
     </td>
-    <td  >
-      <div >
+    <td valign="top" width="50%">
+      <div align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamie10X/Jamie10X/output/github-contribution-grid-snake-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamie10X/Jamie10X/output/github-contribution-grid-snake.svg">
@@ -93,8 +92,19 @@ This section will be updated by the GitHub action we created.
   </tr>
 </table>
 
-<!-- Centered coding profiles below the main stats table -->
-<div >
+<!-- This is the newly added section for the summary cards -->
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <!-- IMPORTANT: Replace +5.5 with your actual UTC offset -->
+    <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamie10X&theme=tokyonight&utc_offset=+5.5" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img alt="GitHub Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jamie10X&theme=tokyonight" />
+  </a>
+</div>
+
+<!-- Centered coding profiles -->
+<div align="center">
   <h3>Coding Profiles</h3>
   <p>
     <a href="https://www.leetcode.com/Jamie1023">
@@ -111,10 +121,10 @@ This section will be updated by the GitHub action we created.
 
 ---
 
-<!-- The final footer with contact links and the new thematic GIF -->
+<!-- The final footer with contact links and a thematic GIF -->
 *Feel free to reach out via [LinkedIn](https://linkedin.com/in/jamshidbek-boynazarov-956227248) or [Email](mailto:jamshidboynazarov0@gmail.com) for collaboration or inquiries.*
 
 <!-- FINAL GIF - using a reliable link from the repo's assets folder -->
-<p >
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVzNzVhYnlvNXhtcDg5YmwycG1sdGZ1bXRqemYzaDN3N2M4cTVoeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WsJzXF8M8tl6w/giphy.gif" width="200" alt="Android Coder GIF">
+<p align="center">
+  <img src="https://github.com/Jamie10X/Jamie10X/blob/main/assets/giphy.gif" width="200" alt="Android Coder GIF">
 </p>
