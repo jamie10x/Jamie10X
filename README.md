@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-This section will be updated by the GitHub action.
+#### 📖 [Announcing Kotlin Multiplatform Shared Module Template](https://android-developers.googleblog.com/2025/05/kotlin-multiplatform-shared-module-templates.html)
 <!--END_SECTION:learn-->
 
 ---
