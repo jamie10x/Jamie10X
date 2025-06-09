@@ -1,18 +1,19 @@
-<h1 align="center">Hi <img src="https://github.com/Jamie10X/Jamie10X/blob/main/icons/Hi.gif" width="28px"/>, I'm Jamshidbek</h1>
-<h2 align="center">
+<h1 >Hi <img src="https://github.com/Jamie10X/Jamie10X/blob/main/icons/Hi.gif" width="28px"  alt="Hi"/>, I'm Jamshidbek</h1>
+<h2 >
   Android Developer | Building Performant & User-Centric Apps
 </h2>
 
-<!-- Personal hook section for a bit of personality -->
-<p align="center">
+<!-- Personal hook section -->
+<p >
   🔭 Currently exploring Kotlin Multiplatform (KMP) performance tuning. <br/>
   💬 Ask me about Clean Architecture, Jetpack Compose, or anything Android! <br/>
   ⚡ Fun Fact: My first "Hello World" app was a simple tip calculator... I've learned a lot since then!
 </p>
 
 <!-- Social media and contact badges -->
-<div align="center">
+<div >
   <img src="https://komarev.com/ghpvc/?username=Jamie10X&color=dc143c&style=flat-square" alt="Profile Views"/>
+  <!-- Make sure to update your portfolio link or remove this badge -->
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
@@ -36,8 +37,7 @@ Building native android applications.
 
 ---
 
-<!-- This was formerly inside the <details> block, now it is a primary, visible section. -->
-## <img align="center" src="https://github.com/Jamie10X/Jamie10X/blob/main/icons/techstack.gif" width="28"/> My Tech Stack
+## <img align="center" src="https://github.com/jamie10x/Jamie10X/blob/main/icons/techstack.gif" width="28"/> My Tech Stack
 
 #### Programming Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
@@ -56,46 +56,65 @@ Building native android applications.
 
 ---
 
-<!-- The new dynamic "Always Learning" section -->
 ## <img align="center" src="https://i.giphy.com/media/1kTNpVyA74h9S/giphy.gif" width="28"/> Always Learning
 
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-This section will be updated by a GitHub action soon!
+This section will be updated by the GitHub action we created.
 <!--END_SECTION:learn-->
 
 ---
 
-<!-- GitHub stats and coding profiles combined into a single activity section -->
-## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/stats.gif" width="28"/> My Stats & Activity
+## <img align="center" src="https://i.giphy.com/media/l49JHz72e2y2lO9iM/giphy.gif" width="28" /> My Stats & Activity
 
-<div align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jamie10X&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamie10X&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<!-- This table creates the side-by-side layout for stats and the snake animation -->
+<table>
+  <tr>
+    <td  >
+      <div >
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jamie10X&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&hide=issues,prs" />
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamie10X&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+        </a>
+      </div>
+    </td>
+    <td  >
+      <div >
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamie10X/Jamie10X/output/github-contribution-grid-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamie10X/Jamie10X/output/github-contribution-grid-snake.svg">
+          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jamie10X/Jamie10X/output/github-contribution-grid-snake.svg">
+        </picture>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+<!-- Centered coding profiles below the main stats table -->
+<div >
   <h3>Coding Profiles</h3>
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/Jamie1023)
-  [![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jamshidboynazar1)
-  [![Google Developer](https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/JamshidbekBoynazarov)
-</div>
-
-<div align="center">
-  <h3>Contribution Graph</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamie10X/Jamie10X/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamie10X/Jamie10X/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jamie10X/Jamie10X/output/github-contribution-grid-snake.svg">
-  </picture>
+  <p>
+    <a href="https://www.leetcode.com/Jamie1023">
+      <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+    </a>
+    <a href="https://www.hackerrank.com/jamshidboynazar1">
+      <img alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    </a>
+    <a href="https://developers.google.com/profile/u/JamshidbekBoynazarov">
+      <img alt="Google Developer" src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white">
+    </a>
+  </p>
 </div>
 
 ---
 
-<!-- The final footer with contact links and a new thematic GIF -->
+<!-- The final footer with contact links and the new thematic GIF -->
 *Feel free to reach out via [LinkedIn](https://linkedin.com/in/jamshidbek-boynazarov-956227248) or [Email](mailto:jamshidboynazarov0@gmail.com) for collaboration or inquiries.*
 
-<p align="center">
-  <img src="https://media.giphy.com/media/UYpI1pA7I712A8tH44/giphy.gif" width="200" alt="Android Coder GIF">
+<!-- FINAL GIF - using a reliable link from the repo's assets folder -->
+<p >
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVzNzVhYnlvNXhtcDg5YmwycG1sdGZ1bXRqemYzaDN3N2M4cTVoeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WsJzXF8M8tl6w/giphy.gif" width="200" alt="Android Coder GIF">
 </p>

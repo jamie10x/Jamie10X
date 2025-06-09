@@ -7,6 +7,12 @@ on:
     - cron: '0 */12 * * *'
   workflow_dispatch: # Allows manual run from the Actions tab.
 
+# START: --- ADD THIS BLOCK ---
+# This gives the workflow the necessary permissions to write to the repository.
+permissions:
+  contents: write
+# END: --- ADD THIS BLOCK ---
+
 jobs:
   build:
     runs-on: ubuntu-latest
