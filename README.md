@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Developer preview: Enhanced Android desktop experiences with connected displays](https://android-developers.googleblog.com/2025/06/developer-preview-enhanced-android-desktop-experiences-connected-displays.html)
+#### 📖 [Smoother app reviews with Play Policy Insights beta in Android Studio](https://android-developers.googleblog.com/2025/06/making-it-easier-to-build-safer-apps-google-play.html)
 <!--END_SECTION:learn-->
 
 ---
