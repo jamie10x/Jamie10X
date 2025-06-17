@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Upcoming changes to Wear OS watch faces](https://android-developers.googleblog.com/2025/06/upcoming-changes-to-wear-os-watch-faces.html)
+#### 📖 [Top 3 things to know for AI on Android at Google I/O ‘25](https://android-developers.googleblog.com/2025/06/top-3-updates-for-ai-on-android-google-io.html)
 <!--END_SECTION:learn-->
 
 ---
