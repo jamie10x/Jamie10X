@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [How Mecha BREAK is driving PC-only growth on Google Play Games](https://android-developers.googleblog.com/2025/06/how-mecha-break-is-driving-pc-only-growth-google-play-games.html)
+#### 📖 [Top announcements to know from Google Play at I/O ‘25](https://android-developers.googleblog.com/2025/06/top-announcements-to-know-from-google-play-google-io-25.html)
 <!--END_SECTION:learn-->
 
 ---
