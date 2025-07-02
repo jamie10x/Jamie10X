@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Top announcements to know from Google Play at I/O ‘25](https://android-developers.googleblog.com/2025/06/top-announcements-to-know-from-google-play-google-io-25.html)
+#### 📖 [Level up your game: Google Play's Indie Games Fund in Latin America returns for its 4th year](https://android-developers.googleblog.com/2025/07/google-plays-indie-games-fund-latin-america-returns-2025.html)
 <!--END_SECTION:learn-->
 
 ---
