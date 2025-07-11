@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Level up your game: Google Play's Indie Games Fund in Latin America returns for its 4th year](https://android-developers.googleblog.com/2025/07/google-plays-indie-games-fund-latin-america-returns-2025.html)
+#### 📖 [Transition to using 16 KB page sizes for Android apps and games using Android Studio](https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html)
 <!--END_SECTION:learn-->
 
 ---
