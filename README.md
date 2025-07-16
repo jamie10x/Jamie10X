@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Transition to using 16 KB page sizes for Android apps and games using Android Studio](https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html)
+#### 📖 [New tools to help drive success for one-time products](https://android-developers.googleblog.com/2025/07/new-tools-to-help-drive-success-for-one-time-products.html)
 <!--END_SECTION:learn-->
 
 ---
