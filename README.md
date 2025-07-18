@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [New tools to help drive success for one-time products](https://android-developers.googleblog.com/2025/07/new-tools-to-help-drive-success-for-one-time-products.html)
+#### 📖 [#WeArePlay: With over 3 billion downloads, meet the people behind Amanotes](https://android-developers.googleblog.com/2025/07/weareplay-amanotes.html)
 <!--END_SECTION:learn-->
 
 ---
