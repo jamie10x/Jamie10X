@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [#WeArePlay: 10 million downloads and counting, meet app and game founders from across the U.S.](https://android-developers.googleblog.com/2025/07/weareplay-app-game-founders-across-the-us.html)
+#### 📖 [Android Studio Narwhal Feature Drop is stable - start using Agent Mode](https://android-developers.googleblog.com/2025/07/android-studio-narwhal-feature-drop-stable-agent-mode.html)
 <!--END_SECTION:learn-->
 
 ---
