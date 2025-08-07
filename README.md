@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Android Studio Narwhal Feature Drop is stable - start using Agent Mode](https://android-developers.googleblog.com/2025/07/android-studio-narwhal-feature-drop-stable-agent-mode.html)
+#### 📖 [What is HDR?](https://android-developers.googleblog.com/2025/08/what-is-hdr.html)
 <!--END_SECTION:learn-->
 
 ---
