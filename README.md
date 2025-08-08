@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [What is HDR?](https://android-developers.googleblog.com/2025/08/what-is-hdr.html)
+#### 📖 [#WeArePlay: Meet the people coding a more sustainable world](https://android-developers.googleblog.com/2025/08/weareplay-meet-people-coding-sustainable-world.html)
 <!--END_SECTION:learn-->
 
 ---
