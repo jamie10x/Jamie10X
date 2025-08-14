@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Media3 1.8.0 - What’s new?](https://android-developers.googleblog.com/2025/08/media3-180-whats-new.html)
+#### 📖 [What’s new in the Jetpack Compose August ’25 release](https://android-developers.googleblog.com/2025/08/whats-new-in-jetpack-compose-august-25-release.html)
 <!--END_SECTION:learn-->
 
 ---
