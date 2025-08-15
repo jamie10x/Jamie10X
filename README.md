@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [What’s new in the Jetpack Compose August ’25 release](https://android-developers.googleblog.com/2025/08/whats-new-in-jetpack-compose-august-25-release.html)
+#### 📖 [Accelerating development with monthly releases for Android Studio - releasing 2X more often than before](https://android-developers.googleblog.com/2025/08/accelerating-development-with-monthly-releases-android-studio-2x-more-than-before.html)
 <!--END_SECTION:learn-->
 
 ---
