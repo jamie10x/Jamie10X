@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Accelerating development with monthly releases for Android Studio - releasing 2X more often than before](https://android-developers.googleblog.com/2025/08/accelerating-development-with-monthly-releases-android-studio-2x-more-than-before.html)
+#### 📖 [Android 16 QPR2 Beta 1 is here](https://android-developers.googleblog.com/2025/08/android-16-qpr2-beta-1-is-here.html)
 <!--END_SECTION:learn-->
 
 ---
