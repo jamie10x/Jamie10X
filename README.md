@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Android 16 QPR2 Beta 1 is here](https://android-developers.googleblog.com/2025/08/android-16-qpr2-beta-1-is-here.html)
+#### 📖 [64-bit app compatibility for Google TV and Android TV](https://android-developers.googleblog.com/2025/08/64-bit-app-compatibility-for-google-tv-android-tv.html)
 <!--END_SECTION:learn-->
 
 ---
