@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [The latest Gemini Nano with on-device ML Kit GenAI APIs](https://android-developers.googleblog.com/2025/08/the-latest-gemini-nano-with-on-device-ml-kit-genai-apis.html)
+#### 📖 [A new layer of security for certified Android devices](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
 <!--END_SECTION:learn-->
 
 ---
