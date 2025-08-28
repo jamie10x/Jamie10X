@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Building experiences for Wear OS](https://android-developers.googleblog.com/2025/08/building-experiences-for-wear-os.html)
+#### 📖 [A comprehensive workflow from design to device: Introducing Watch Face Designer](https://android-developers.googleblog.com/2025/08/introducing-watch-face-designer.html)
 <!--END_SECTION:learn-->
 
 ---
