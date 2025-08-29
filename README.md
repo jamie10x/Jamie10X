@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [A comprehensive workflow from design to device: Introducing Watch Face Designer](https://android-developers.googleblog.com/2025/08/introducing-watch-face-designer.html)
+#### 📖 [Tune in on September 3: recapping the latest from Made by Google and more in our summer episode of The Android Show](https://android-developers.googleblog.com/2025/08/the-android-show-summer-teaser.html)
 <!--END_SECTION:learn-->
 
 ---
