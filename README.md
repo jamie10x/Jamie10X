@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Tune in on September 3: recapping the latest from Made by Google and more in our summer episode of The Android Show](https://android-developers.googleblog.com/2025/08/the-android-show-summer-teaser.html)
+#### 📖 [The latest for devs from Made by Google, updates to Gemini in Android Studio, plus a new Androidify: our summer episode of The Android Show](https://android-developers.googleblog.com/2025/09/the-android-show-summer-edition.html)
 <!--END_SECTION:learn-->
 
 ---
