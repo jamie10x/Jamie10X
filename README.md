@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [The latest for devs from Made by Google, updates to Gemini in Android Studio, plus a new Androidify: our summer episode of The Android Show](https://android-developers.googleblog.com/2025/09/the-android-show-summer-edition.html)
+#### 📖 [Best practices for migrating users to passkeys with Credential Manager](https://android-developers.googleblog.com/2025/09/best-practices-migrating-users-passkeys-credential-manager.html)
 <!--END_SECTION:learn-->
 
 ---
