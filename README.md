@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Elevating media playback: Introducing preloading with Media3 - Part 1](https://android-developers.googleblog.com/2025/09/introducing-preloading-with-media3.html)
+#### 📖 [Improve app performance with optimized resource shrinking](https://android-developers.googleblog.com/2025/09/improve-app-performance-with-optimized-resource-shrinking.html)
 <!--END_SECTION:learn-->
 
 ---
