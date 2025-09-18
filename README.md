@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Simplifying advanced networking with DHCPv6 Prefix Delegation](https://android-developers.googleblog.com/2025/09/simplifying-advanced-networking-with.html)
+#### 📖 [Android 16 QPR2 Beta 2 is Here](https://android-developers.googleblog.com/2025/09/android-16-qpr2-beta-2-is-here.html)
 <!--END_SECTION:learn-->
 
 ---
