@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Android 16 QPR2 Beta 2 is Here](https://android-developers.googleblog.com/2025/09/android-16-qpr2-beta-2-is-here.html)
+#### 📖 [Gratitude's developers released 2X the amount of innovative experiments with the help of Gemini in Android Studio](https://android-developers.googleblog.com/2025/09/gratitudes-developers-released-2x.html)
 <!--END_SECTION:learn-->
 
 ---
