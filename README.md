@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Gratitude's developers released 2X the amount of innovative experiments with the help of Gemini in Android Studio](https://android-developers.googleblog.com/2025/09/gratitudes-developers-released-2x.html)
+#### 📖 [Elevating media playback : A deep dive into Media3’s PreloadManager - Part 2](https://android-developers.googleblog.com/2025/09/a-deep-dive-into-media3-preloadmanager.html)
 <!--END_SECTION:learn-->
 
 ---
