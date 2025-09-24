@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Elevating media playback : A deep dive into Media3’s PreloadManager - Part 2](https://android-developers.googleblog.com/2025/09/a-deep-dive-into-media3-preloadmanager.html)
+#### 📖 [Introducing the Google Play Games Level Up program](https://android-developers.googleblog.com/2025/09/introducing-google-play-games-level-up.html)
 <!--END_SECTION:learn-->
 
 ---
