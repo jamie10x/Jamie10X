@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [#WeArePlay: Meet the people building vibrant communities with their apps and games](https://android-developers.googleblog.com/2025/09/weareplay-meet-the-people-building-vibrant-communities-with-their-apps-and-games.html)
+#### 📖 [Let's talk security: Answering your top questions about Android developer verification](https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html)
 <!--END_SECTION:learn-->
 
 ---
