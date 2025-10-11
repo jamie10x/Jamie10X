@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Android Studio Narwhal 4 Feature Drop: watch face support and improved stability](https://android-developers.googleblog.com/2025/09/android-studio-narwhal-4-feature-drop.html)
+#### 📖 [Jetpack WindowManager 1.5 is stable](https://android-developers.googleblog.com/2025/10/jetpack-windowmanager-15-is-stable.html)
 <!--END_SECTION:learn-->
 
 ---
