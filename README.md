@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Jetpack WindowManager 1.5 is stable](https://android-developers.googleblog.com/2025/10/jetpack-windowmanager-15-is-stable.html)
+#### 📖 [Boost user engagement with AI Image Generation](https://android-developers.googleblog.com/2025/10/boost-user-engagement-with-ai-image.html)
 <!--END_SECTION:learn-->
 
 ---
