@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Boost user engagement with AI Image Generation](https://android-developers.googleblog.com/2025/10/boost-user-engagement-with-ai-image.html)
+#### 📖 [Beyond Single Features: Guaranteeing Feature Combinations With CameraX 1.5](https://android-developers.googleblog.com/2025/10/beyond-single-features-guaranteeing.html)
 <!--END_SECTION:learn-->
 
 ---
