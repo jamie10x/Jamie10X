@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [#WeArePlay: Meet the founder making breast cancer awareness simple and accessible](https://android-developers.googleblog.com/2025/10/weareplay-meet-founder-making-breast.html)
+#### 📖 [Dynamic App Links: Elevating your Android deep linking](https://android-developers.googleblog.com/2025/10/dynamic-app-links-elevating-your.html)
 <!--END_SECTION:learn-->
 
 ---
