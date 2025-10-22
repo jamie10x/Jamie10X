@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Dynamic App Links: Elevating your Android deep linking](https://android-developers.googleblog.com/2025/10/dynamic-app-links-elevating-your.html)
+#### 📖 [Grow your app with the Google Play Apps Accelerator - apply now](https://android-developers.googleblog.com/2025/10/grow-your-app-with-google-play-apps.html)
 <!--END_SECTION:learn-->
 
 ---
