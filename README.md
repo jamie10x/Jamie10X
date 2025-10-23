@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Grow your app with the Google Play Apps Accelerator - apply now](https://android-developers.googleblog.com/2025/10/grow-your-app-with-google-play-apps.html)
+#### 📖 [Bringing Androidify to XR with the Jetpack XR SDK](https://android-developers.googleblog.com/2025/10/bringing-androidify-to-xr-with-jetpack.html)
 <!--END_SECTION:learn-->
 
 ---
