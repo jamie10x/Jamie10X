@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Bringing Androidify to XR with the Jetpack XR SDK](https://android-developers.googleblog.com/2025/10/bringing-androidify-to-xr-with-jetpack.html)
+#### 📖 [Set a reminder: Tune in on October 30 for our Fall episode of The Android Show, live from Droidcon London](https://android-developers.googleblog.com/2025/10/set-reminder-tune-in-on-october-30-for.html)
 <!--END_SECTION:learn-->
 
 ---
