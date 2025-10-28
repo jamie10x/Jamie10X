@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [5 things you need to know about publishing and distributing your app for Android XR](https://android-developers.googleblog.com/2025/10/5-things-you-need-to-know-about.html)
+#### 📖 [Material 3 Adaptive 1.2.0 is stable](https://android-developers.googleblog.com/2025/10/material-3-adaptive-120-is-stable.html)
 <!--END_SECTION:learn-->
 
 ---
