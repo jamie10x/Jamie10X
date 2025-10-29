@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Material 3 Adaptive 1.2.0 is stable](https://android-developers.googleblog.com/2025/10/material-3-adaptive-120-is-stable.html)
+#### 📖 [High-Speed Capture and Slow-Motion Video with CameraX 1.5](https://android-developers.googleblog.com/2025/10/high-speed-capture-and-slow-motion.html)
 <!--END_SECTION:learn-->
 
 ---
