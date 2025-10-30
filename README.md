@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [High-Speed Capture and Slow-Motion Video with CameraX 1.5](https://android-developers.googleblog.com/2025/10/high-speed-capture-and-slow-motion.html)
+#### 📖 [Introducing Cahier: A new Android GitHub sample for large screen productivity and creativity](https://android-developers.googleblog.com/2025/10/introducing-cahier-new-android-github.html)
 <!--END_SECTION:learn-->
 
 ---
