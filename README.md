@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Introducing Cahier: A new Android GitHub sample for large screen productivity and creativity](https://android-developers.googleblog.com/2025/10/introducing-cahier-new-android-github.html)
+#### 📖 [ML Kit’s Prompt API: Unlock Custom On-Device Gemini Nano Experiences](https://android-developers.googleblog.com/2025/10/ml-kit-genai-prompt-api-alpha-release.html)
 <!--END_SECTION:learn-->
 
 ---
