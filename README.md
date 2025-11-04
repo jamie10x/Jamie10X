@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [ML Kit’s Prompt API: Unlock Custom On-Device Gemini Nano Experiences](https://android-developers.googleblog.com/2025/10/ml-kit-genai-prompt-api-alpha-release.html)
+#### 📖 [Health Connect Jetpack v1.1.0 is now available!](https://android-developers.googleblog.com/2025/11/health-connect-jetpack-v110-is-now.html)
 <!--END_SECTION:learn-->
 
 ---
