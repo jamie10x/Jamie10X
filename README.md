@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Health Connect Jetpack v1.1.0 is now available!](https://android-developers.googleblog.com/2025/11/health-connect-jetpack-v110-is-now.html)
+#### 📖 [#WeArePlay: Meet the people making apps & games to improve your health](https://android-developers.googleblog.com/2025/11/weareplay-meet-people-making-apps-games.html)
 <!--END_SECTION:learn-->
 
 ---
