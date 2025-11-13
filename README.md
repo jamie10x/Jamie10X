@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Raising the bar on battery performance: excessive partial wake locks metric is now out of beta](https://android-developers.googleblog.com/2025/11/raising-bar-on-battery-performance.html)
+#### 📖 [Android developer verification: Early access starts now as we continue to build with your feedback](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 <!--END_SECTION:learn-->
 
 ---
