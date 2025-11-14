@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Android developer verification: Early access starts now as we continue to build with your feedback](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
+#### 📖 [Introducing CameraX 1.5: Powerful Video Recording and Pro-level Image Capture](https://android-developers.googleblog.com/2025/11/introducing-camerax-15-powerful-video.html)
 <!--END_SECTION:learn-->
 
 ---
