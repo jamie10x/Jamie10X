@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Introducing CameraX 1.5: Powerful Video Recording and Pro-level Image Capture](https://android-developers.googleblog.com/2025/11/introducing-camerax-15-powerful-video.html)
+#### 📖 [How Reddit used the R8 optimizer for high impact performance improvements](https://android-developers.googleblog.com/2025/11/how-reddit-used-r8-optimizer-for-high.html)
 <!--END_SECTION:learn-->
 
 ---
