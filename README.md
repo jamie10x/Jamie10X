@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Jetpack Navigation 3 is stable](https://android-developers.googleblog.com/2025/11/jetpack-navigation-3-is-stable.html)
+#### 📖 [Leveling Guide for your Performance Journey](https://android-developers.googleblog.com/2025/11/leveling-guide-for-your-performance.html)
 <!--END_SECTION:learn-->
 
 ---
