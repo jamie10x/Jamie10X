@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [#WeArePlay: Solving the dinner dilemma - how DELISH KITCHEN empowers 13 million home cooks](https://android-developers.googleblog.com/2025/11/weareplay-solving-dinner-dilemma-how.html)
+#### 📖 [Learn about our newest Jetpack Navigation library with the Nav3 Spotlight Week](https://android-developers.googleblog.com/2025/12/learn-about-our-newest-jetpack.html)
 <!--END_SECTION:learn-->
 
 ---
