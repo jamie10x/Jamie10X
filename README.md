@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Learn about our newest Jetpack Navigation library with the Nav3 Spotlight Week](https://android-developers.googleblog.com/2025/12/learn-about-our-newest-jetpack.html)
+#### 📖 [Android 16 QPR2 is Released](https://android-developers.googleblog.com/2025/12/android-16-qpr2-is-released.html)
 <!--END_SECTION:learn-->
 
 ---
