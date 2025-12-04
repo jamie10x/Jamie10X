@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Android 16 QPR2 is Released](https://android-developers.googleblog.com/2025/12/android-16-qpr2-is-released.html)
+#### 📖 [What's new in the Jetpack Compose December '25 release](https://android-developers.googleblog.com/2025/12/whats-new-in-jetpack-compose-december.html)
 <!--END_SECTION:learn-->
 
 ---
