@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Android Studio Otter 2 Feature Drop is stable!](https://android-developers.googleblog.com/2025/12/android-studio-otter-2-feature-drop-is.html)
+#### 📖 [#WeArePlay: How Miksapix Interactive is bringing ancient Sámi Mythology to gamers worldwide](https://android-developers.googleblog.com/2025/12/weareplay-how-miksapix-interactive-is.html)
 <!--END_SECTION:learn-->
 
 ---
