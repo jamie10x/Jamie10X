@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [#WeArePlay: How Miksapix Interactive is bringing ancient Sámi Mythology to gamers worldwide](https://android-developers.googleblog.com/2025/12/weareplay-how-miksapix-interactive-is.html)
+#### 📖 [Building a safer Android and Google Play, together](https://android-developers.googleblog.com/2025/12/building-safer-android-and-google-play.html)
 <!--END_SECTION:learn-->
 
 ---
