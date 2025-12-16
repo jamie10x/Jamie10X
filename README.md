@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Building a safer Android and Google Play, together](https://android-developers.googleblog.com/2025/12/building-safer-android-and-google-play.html)
+#### 📖 [Notes from Google Play: A look back at the tools that powered your growth in 2025](https://android-developers.googleblog.com/2025/12/notes-from-google-play-2025.html)
 <!--END_SECTION:learn-->
 
 ---
