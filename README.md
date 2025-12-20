@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Bringing Androidify to Wear OS with Watch Face Push](https://android-developers.googleblog.com/2025/12/bringing-androidify-to-wear-os-with.html)
+#### 📖 [Media3 1.9.0 - What’s new](https://android-developers.googleblog.com/2025/12/media3-190-whats-new.html)
 <!--END_SECTION:learn-->
 
 ---
