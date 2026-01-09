@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Media3 1.9.0 - What’s new](https://android-developers.googleblog.com/2025/12/media3-190-whats-new.html)
+#### 📖 [Ultrahuman launches features 15% faster with Gemini in Android Studio](https://android-developers.googleblog.com/2026/01/ultrahuman-launches-features-15-faster.html)
 <!--END_SECTION:learn-->
 
 ---
