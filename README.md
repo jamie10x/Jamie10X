@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Beyond the smartphone: How JioHotstar optimized its UX for foldables and tablets](https://android-developers.googleblog.com/2026/01/beyond-smartphone-how-jiohotstar.html)
+#### 📖 [The Embedded Photo Picker](https://android-developers.googleblog.com/2026/01/httpsandroid-developers.googleblog.com202506android-embedded-photo-picker.html .html)
 <!--END_SECTION:learn-->
 
 ---
