@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [How Automated Prompt Optimization Unlocks Quality Gains for ML Kit’s GenAI Prompt API](https://android-developers.googleblog.com/2026/01/how-automated-prompt-optimization.html)
+#### 📖 [Accelerating your insights with faster, smarter monetization data and recommendations](https://android-developers.googleblog.com/2026/01/accelerating-your-insights-with-faster.html)
 <!--END_SECTION:learn-->
 
 ---
