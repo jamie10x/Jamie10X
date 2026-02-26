@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Get ready for Google I/O May 19-20](https://android-developers.googleblog.com/2026/02/get-ready-for-google-io-may-19-20.html)
+#### 📖 [The Intelligent OS: Making AI agents more helpful for Android apps](https://android-developers.googleblog.com/2026/02/the-intelligent-os-making-ai-agents.html)
 <!--END_SECTION:learn-->
 
 ---
