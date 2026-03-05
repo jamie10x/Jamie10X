@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Android devices extend seamlessly to connected displays](https://android-developers.googleblog.com/2026/03/android-devices-extend-seamlessly-to.html)
+#### 📖 [Battery Technical Quality Enforcement is Here:  How to Optimize Common Wake Lock Use Cases](https://android-developers.googleblog.com/2026/03/battery-technical-quality-enforcement.html)
 <!--END_SECTION:learn-->
 
 ---
