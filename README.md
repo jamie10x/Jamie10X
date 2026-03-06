@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Battery Technical Quality Enforcement is Here:  How to Optimize Common Wake Lock Use Cases](https://android-developers.googleblog.com/2026/03/battery-technical-quality-enforcement.html)
+#### 📖 [Instagram and Facebook deliver instant playback and boost user engagement with Media3 PreloadManager](https://android-developers.googleblog.com/2026/03/instagram-and-facebook-deliver-instant.html)
 <!--END_SECTION:learn-->
 
 ---
