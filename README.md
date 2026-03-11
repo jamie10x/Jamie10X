@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Instagram and Facebook deliver instant playback and boost user engagement with Media3 PreloadManager](https://android-developers.googleblog.com/2026/03/instagram-and-facebook-deliver-instant.html)
+#### 📖 [Boosting Android Performance: Introducing AutoFDO for the Kernel](https://android-developers.googleblog.com/2026/03/BoostingAndroid PerformanceIntroducingAutoFDO.html)
 <!--END_SECTION:learn-->
 
 ---
