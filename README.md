@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Boosting Android Performance: Introducing AutoFDO for the Kernel](https://android-developers.googleblog.com/2026/03/BoostingAndroid PerformanceIntroducingAutoFDO.html)
+#### 📖 [Level Up: Test Sidekick and prepare for upcoming program milestones](https://android-developers.googleblog.com/2026/03/level-up-your-game.html)
 <!--END_SECTION:learn-->
 
 ---
