@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Android developer verification: Balancing openness and choice with safety](https://android-developers.googleblog.com/2026/03/android-developer-verification.html)
+#### 📖 [Contact Picker: Privacy-First Contact Sharing](https://android-developers.googleblog.com/2026/03/contact-picker-privacy-first-contact.html)
 <!--END_SECTION:learn-->
 
 ---
