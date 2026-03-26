@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Contact Picker: Privacy-First Contact Sharing](https://android-developers.googleblog.com/2026/03/contact-picker-privacy-first-contact.html)
+#### 📖 [Meet the class of 2026 for the Google Play Apps Accelerator](https://android-developers.googleblog.com/2026/03/meet-class-of-2026-for-google-play-apps.html)
 <!--END_SECTION:learn-->
 
 ---
