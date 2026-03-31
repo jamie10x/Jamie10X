@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Redefining Location Privacy: New Tools and Improvements for Android 17](https://android-developers.googleblog.com/2026/03/location-privacy.html)
+#### 📖 [Media3 1.10 is out](https://android-developers.googleblog.com/2026/03/media3-110-is-out.html)
 <!--END_SECTION:learn-->
 
 ---
