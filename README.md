@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Media3 1.10 is out](https://android-developers.googleblog.com/2026/03/media3-110-is-out.html)
+#### 📖 [Get your Wear OS apps ready for the 64-bit requirement](https://android-developers.googleblog.com/2026/04/get-your-wear-os-apps-ready-for-64-bit-requirement.html)
 <!--END_SECTION:learn-->
 
 ---
