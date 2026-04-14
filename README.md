@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Android Studio supports Gemma 4: our most capable local model for agentic coding](https://android-developers.googleblog.com/2026/04/android-studio-supports-gemma-4-local.html)
+#### 📖 [Test Multi-Device Interactions with the Android Emulator](https://android-developers.googleblog.com/2026/04/Test-Multi-Device-Interactions-with-the-Android-Emulator.html)
 <!--END_SECTION:learn-->
 
 ---
