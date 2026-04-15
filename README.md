@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Test Multi-Device Interactions with the Android Emulator](https://android-developers.googleblog.com/2026/04/Test-Multi-Device-Interactions-with-the-Android-Emulator.html)
+#### 📖 [Get ready for Google I/O: Livestream schedule revealed](https://android-developers.googleblog.com/2026/04/get-ready-for-google-io-livestream-schedule-revealed.html)
 <!--END_SECTION:learn-->
 
 ---
