@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Experimental hybrid inference and new Gemini models for Android](https://android-developers.googleblog.com/2026/04/Hybrid-inference-and-new-AI-models-are-coming-to-Android.html)
+#### 📖 [Level up your development with Planning Mode and Next Edit Prediction in Android Studio Panda 4](https://android-developers.googleblog.com/2026/04/android-studio-panda-4-planning-mode-next-edit-prediction.html)
 <!--END_SECTION:learn-->
 
 ---
