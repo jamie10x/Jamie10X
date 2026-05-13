@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Gratitude saw 25% higher retention for widget users](https://android-developers.googleblog.com/2026/05/how-gratitude-widgets-boosted-user-retention-25-percent.html)
+#### 📖 [Building for the Intelligence System on Android](https://android-developers.googleblog.com/2026/05/the-android-show-developers-cut-2026.html)
 <!--END_SECTION:learn-->
 
 ---
