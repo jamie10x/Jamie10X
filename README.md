@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Building for the Intelligence System on Android](https://android-developers.googleblog.com/2026/05/the-android-show-developers-cut-2026.html)
+#### 📖 [Bring Native Visibility to Your VoIP App Experience with Telecom's Latest Alpha](https://android-developers.googleblog.com/2026/05/voip-native-visibility-telecom-alpha.html)
 <!--END_SECTION:learn-->
 
 ---
