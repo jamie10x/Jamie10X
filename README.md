@@ -60,7 +60,7 @@ Building native android applications.
 Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
 
 <!--START_SECTION:learn-->
-#### 📖 [Bring Native Visibility to Your VoIP App Experience with Telecom's Latest Alpha](https://android-developers.googleblog.com/2026/05/voip-native-visibility-telecom-alpha.html)
+#### 📖 [How FotMob leveraged cross-device discovery to score record Wear OS adoption](https://android-developers.googleblog.com/2026/05/fotmob-wear-os-adoption-cross-device-discovery.html)
 <!--END_SECTION:learn-->
 
 ---
