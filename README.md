@@ -1,63 +1,130 @@
-<h1 align="center">Hi <img src="https://github.com/Jamie10X/Jamie10X/blob/main/icons/Hi.gif" width="28px"/>, I'm Jamshidbek</h1>
-<h2 align="center">
-  Android Developer | Building Performant & User-Centric Apps
-</h2>
-
-<!-- Personal hook section -->
-<p align="center">
-  🔭 Currently exploring Kotlin Multiplatform (KMP) performance tuning. <br/>
-  💬 Ask me about Clean Architecture, Jetpack Compose, or anything Android! <br/>
-  ⚡ Fun Fact: My first "Hello World" app was a simple tip calculator... I've learned a lot since then!
-</p>
-
-<!-- Social media and contact badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jamie10X&color=dc143c&style=flat-square" alt="Profile Views"/>
-  <!-- Make sure to update your portfolio link or remove this badge -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio">
+  <img src="./jamie10x-os.svg" alt="Jamie10X OS" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| `SYSTEM` | `VALUE` | `SYSTEM` | `VALUE` |
+|:---|:---|:---|:---|
+| **Status** | 🟢 Building Android apps | **Primary Stack** | Kotlin + Jetpack Compose |
+| **Cross-Platform** | Flutter / Dart | **Backend & Web** | TypeScript · Go · Python |
+| **Focus** | Clean Architecture · Performance · UX | **Timezone** | UTC+5 |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/jamshidbek-boynazarov-956227248">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-   <a href="https://linkedin.com/in/jamshidbek-boynazarov-956227248">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  &nbsp;
+  <a href="https://github.com/Jamie10X">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-   <a href="https://github.com/Jamie10X">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  &nbsp;
+  <a href="mailto:jamshidboynazarov0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-   <a href="mailto:jamshidboynazarov0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Me">
-  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Jamie10X&color=3DDC84&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 ---
 
-## <img align='center' src="https://i.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="28"/> About Me
+## `>_ jamie10x@github`
 
-Dedicated Android Developer focused on creating high-performance, intuitive mobile applications using modern technologies. Passionate about continuous learning, clean code, and tackling challenging problems to deliver excellent user experiences. Actively exploring Jetpack Compose optimization and Kotlin Multiplatform (KMP).
-Building native android applications.
+```bash
+jamie10x@github:~$ whoami
+Android Developer focused on Kotlin, Java, Jetpack Compose and clean architecture.
+Builds production-ready mobile apps with great UX, tight performance, and scalable code.
+
+jamie10x@github:~$ build-modes
+native-android     →  production-ready mobile apps with Jetpack Compose & MVVM/MVI
+flutter            →  cross-platform mobile apps with Dart & Firebase
+web-backend        →  REST APIs, Node.js, TypeScript, Go, Python
+problem-solving    →  algorithms, architecture design, product thinking
+```
 
 ---
 
-## <img align="center" src="https://github.com/Jamie10X/Jamie10X/blob/main/icons/techstack.gif" width="28"/> My Tech Stack
+## Featured Builds
 
-#### Programming Languages
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23FF9900.svg?style=flat-square&logo=sqlite&logoColor=white)
+| Project | What I Built | Stack |
+|:---|:---|:---|
+| `native-android-app` | <!-- Replace: full-featured Android app with offline support --> | Kotlin · Compose · Room · Hilt |
+| `flutter-cross-platform` | <!-- Replace: cross-platform mobile app for iOS & Android --> | Flutter · Dart · Firebase |
+| `backend-api-project` | <!-- Replace: REST API with auth and database integration --> | Go · TypeScript · Node.js · MongoDB |
 
-#### Android Development
-*   **UI:** ![Jetpack Compose](https://img.shields.io/badge/Compose-%234285F4.svg?style=flat-square&logo=jetpackcompose&logoColor=white) ![XML Layouts](https://img.shields.io/badge/XML_Layouts-grey?style=flat-square&logo=android&logoColor=white) ![Material Design](https://img.shields.io/badge/Material_Design-lightgrey?style=flat-square&logo=materialdesign&logoColor=black)
-*   **Architecture & Patterns:** ![MVVM](https://img.shields.io/badge/MVVM-blue?style=flat-square) ![MVI](https://img.shields.io/badge/MVI-purple?style=flat-square) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-teal?style=flat-square) ![SOLID Principles](https://img.shields.io/badge/SOLID-darkred?style=flat-square)
-*   **Core Libraries & Jetpack:** ![Kotlin Coroutines](https://img.shields.io/badge/Coroutines-orange?style=flat-square&logo=kotlin&logoColor=white) ![Flow](https://img.shields.io/badge/Flow-green?style=flat-square&logo=kotlin&logoColor=white) ![Dagger/Hilt](https://img.shields.io/badge/Dagger_/_Hilt-white?style=flat-square&logo=dagger&logoColor=black) ![Koin](https://img.shields.io/badge/Koin-blueviolet?style=flat-square&logo=kotlin&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-blue?style=flat-square&logo=square&logoColor=white) ![Room](https://img.shields.io/badge/Room-brown?style=flat-square&logo=android&logoColor=white) ![DataStore](https://img.shields.io/badge/DataStore-purple?style=flat-square&logo=android&logoColor=white) ![WorkManager](https://img.shields.io/badge/WorkManager-darkblue?style=flat-square&logo=android&logoColor=white) ![Navigation Component](https://img.shields.io/badge/Navigation-green?style=flat-square&logo=android&logoColor=white) ![Paging 3](https://img.shields.io/badge/Paging_3-blue?style=flat-square&logo=android&logoColor=white) ![Coil](https://img.shields.io/badge/Coil-red?style=flat-square)
-*   **Testing:** ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) ![Espresso](https://img.shields.io/badge/Espresso-brown?style=flat-square&logo=android&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-blue?style=flat-square) ![Turbine](https://img.shields.io/badge/Turbine-teal?style=flat-square)
+---
 
-#### Backend, Tools & Platforms
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-208FF?style=flat-square&logo=githubactions&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+## Tech Stack
 
+#### Native Android
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![XML Layouts](https://img.shields.io/badge/XML_Layouts-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white)
+![DataStore](https://img.shields.io/badge/DataStore-4285F4?style=flat-square&logo=android&logoColor=white)
+![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Navigation](https://img.shields.io/badge/Navigation-4285F4?style=flat-square&logo=android&logoColor=white)
+![Paging 3](https://img.shields.io/badge/Paging_3-7F52FF?style=flat-square&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=flat-square&logo=dagger&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-## <img align="center" src="https://i.giphy.com/media/1kTNpVyA74h9S/giphy.gif" width="28"/> Always Learning
+#### Cross-Platform
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-Staying current is key in our field. This section automatically updates with the latest post from the official Android Developers Blog.
+#### Web & Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## Architecture Fingerprint
+
+```mermaid
+flowchart LR
+    UI["🖥️ UI\nCompose / Flutter"] --> VM["⚙️ ViewModel\nState + Events"]
+    VM --> UC["🧩 Use Cases\nBusiness Logic"]
+    UC --> Repo["📦 Repository\nSingle Source of Truth"]
+    Repo --> API["🌐 Remote\nRetrofit / REST"]
+    Repo --> DB["💾 Local\nRoom / DataStore"]
+
+    style UI fill:#3DDC84,color:#0B0F14,stroke:#3DDC84
+    style VM fill:#4285F4,color:#fff,stroke:#4285F4
+    style UC fill:#7F52FF,color:#fff,stroke:#7F52FF
+    style Repo fill:#1E2D3D,color:#E6EDF3,stroke:#4B5563
+    style API fill:#0d1a2a,color:#3DDC84,stroke:#3DDC84
+    style DB fill:#0d1a2a,color:#4285F4,stroke:#4285F4
+```
+
+---
+
+## Currently Syncing
+
+*Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
 #### 📖 [How FotMob leveraged cross-device discovery to score record Wear OS adoption](https://android-developers.googleblog.com/2026/05/fotmob-wear-os-adoption-cross-device-discovery.html)
@@ -65,56 +132,48 @@ Staying current is key in our field. This section automatically updates with the
 
 ---
 
-## <img align="center" src="https://i.giphy.com/media/l49JHz72e2y2lO9iM/giphy.gif" width="28" /> My Stats & Activity
+## Stats & Activity
 
-<!-- This div will center all the new stat cards in a single column -->
 <div align="center">
 
-  <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Jamshidbek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jamie10X&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jamie10X&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   </a>
 
-  <!-- Top Languages Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Jamshidbek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamie10X&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamie10X&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   </a>
 
-  <!-- Productive Time Card (Commit graph) -->
-  <!-- IMPORTANT: Replace +5.5 with your actual UTC offset for accurate timing! -->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamie10X&theme=tokyonight&utc_offset=+5.5" />
+    <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamie10X&theme=tokyonight&utc_offset=+5"/>
   </a>
 
-  <!-- Activity Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Jamshidbek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jamie10X&bg_color=1a1b27&color=c0caf5&line=82aae0&point=ff9e64&area=true&hide_border=true" />
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jamie10X&bg_color=1a1b27&color=c0caf5&line=3DDC84&point=4285F4&area=true&hide_border=true"/>
   </a>
 
-</div>
-
-<!-- Coding Profiles -->
-<div align="center">
-  <h3>Coding Profiles</h3>
-  <p>
-    <a href="https://www.leetcode.com/Jamie1023">
-      <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-    </a>
-    <a href="https://www.hackerrank.com/jamshidboynazar1">
-      <img alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-    </a>
-    <a href="https://developers.google.com/profile/u/JamshidbekBoynazarov">
-      <img alt="Google Developer" src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white">
-    </a>
-  </p>
 </div>
 
 ---
 
-<!-- The final footer with contact links and a thematic GIF -->
-*Feel free to reach out via [LinkedIn](https://linkedin.com/in/jamshidbek-boynazarov-956227248) or [Email](mailto:jamshidboynazarov0@gmail.com) for collaboration or inquiries.*
+## Coding Profiles
 
-<!-- FINAL GIF - using a reliable link from the repo's assets folder -->
-<p align="center">
-  <img src="https://github.com/Jamie10X/Jamie10X/blob/main/assets/giphy.gif" width="200" alt="Android Coder GIF">
-</p>
+<div align="center">
+  <a href="https://www.leetcode.com/Jamie1023">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/jamshidboynazar1">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://developers.google.com/profile/u/JamshidbekBoynazarov">
+    <img alt="Google Developer" src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to Android, Flutter, and backend collaboration.</sub>
+</div>
