@@ -141,13 +141,13 @@ problem-solving    →  algorithms, architecture design, product thinking
 ## Stats & Activity
 
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jamie10X&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jamie10X&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=3DDC84&text_color=E6EDF3&icon_color=4285F4"/>
   &nbsp;&nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamie10X&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamie10X&layout=compact&hide_border=true&bg_color=0B0F14&title_color=3DDC84&text_color=E6EDF3"/>
   <br/><br/>
   <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamie10X&theme=tokyonight&utc_offset=5"/>
   &nbsp;&nbsp;
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jamie10X&bg_color=1a1b27&color=c0caf5&line=3DDC84&point=4285F4&area=true&hide_border=true"/>
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jamie10X&bg_color=0B0F14&color=E6EDF3&line=3DDC84&point=4285F4&area=true&hide_border=true"/>
 </div>
 
 ---
