@@ -139,24 +139,35 @@ problem-solving    →  algorithms, architecture design, product thinking
 <br/>
 
 ## Stats & Activity
-
 <div align="center">
   <img
-    height="165"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=jamie10x&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=3DDC84&text_color=E6EDF3&icon_color=4285F4&cache_seconds=21600"
-  />
-  &nbsp;&nbsp;
-  <img
-    height="165"
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamie10x&layout=compact&hide_border=true&bg_color=0B0F14&title_color=3DDC84&text_color=E6EDF3&cache_seconds=21600"
+    alt="Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamie10x&theme=tokyonight"
   />
 </div>
 
 <br/>
 
 <div align="center">
+  <img
+    alt="Repos Per Language"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jamie10x&theme=tokyonight"
+  />
+  &nbsp;&nbsp;
+  <img
+    alt="Most Commit Language"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jamie10x&theme=tokyonight"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    alt="GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jamie10x&theme=tokyonight"
+  />
+  &nbsp;&nbsp;
   <img
     alt="Productive Time"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jamie10x&theme=tokyonight&utcOffset=5"
