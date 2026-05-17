@@ -14,6 +14,10 @@
 
 </div>
 
+<div align="center">
+  <i>I build Android apps like complete systems: clean UI, reliable data flow, scalable architecture, and smooth product experience.</i>
+</div>
+
 <br/>
 
 <div align="center">
@@ -48,17 +52,17 @@ web-backend        →  REST APIs, Node.js, TypeScript, Go, Python
 problem-solving    →  algorithms, architecture design, product thinking
 ```
 
----
+<br/>
 
 ## Featured Builds
 
 | Project | What I Built | Stack |
 |:---|:---|:---|
-| `native-android-app` | <!-- Replace: full-featured Android app with offline support --> | Kotlin · Compose · Room · Hilt |
-| `flutter-cross-platform` | <!-- Replace: cross-platform mobile app for iOS & Android --> | Flutter · Dart · Firebase |
-| `backend-api-project` | <!-- Replace: REST API with auth and database integration --> | Go · TypeScript · Node.js · MongoDB |
+| `Native Android App` | Offline-ready Android app with clean architecture, local persistence, and API integration | Kotlin · Compose · Room · Hilt |
+| `Flutter Cross-Platform App` | Cross-platform mobile experience with shared UI and Firebase-backed features | Flutter · Dart · Firebase |
+| `Backend API Service` | REST API experiment for auth, data handling, and service architecture | Go · TypeScript · Node.js · MongoDB |
 
----
+<br/>
 
 ## Tech Stack
 
@@ -100,27 +104,29 @@ problem-solving    →  algorithms, architecture design, product thinking
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
+<br/>
 
 ## Architecture Fingerprint
 
-```mermaid
-flowchart LR
-    UI["🖥️ UI\nCompose / Flutter"] --> VM["⚙️ ViewModel\nState + Events"]
-    VM --> UC["🧩 Use Cases\nBusiness Logic"]
-    UC --> Repo["📦 Repository\nSingle Source of Truth"]
-    Repo --> API["🌐 Remote\nRetrofit / REST"]
-    Repo --> DB["💾 Local\nRoom / DataStore"]
+<div align="center">
+<br/>
+<code>UI</code><br/>
+<sub>Compose / Flutter</sub><br/>
+↓<br/>
+<code>ViewModel</code><br/>
+<sub>State + Events</sub><br/>
+↓<br/>
+<code>Use Cases</code><br/>
+<sub>Business Logic</sub><br/>
+↓<br/>
+<code>Repository</code><br/>
+<sub>Single Source of Truth</sub><br/>
+↓<br/>
+<code>Remote API</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Local Database</code>
+<br/><br/>
+</div>
 
-    style UI fill:#3DDC84,color:#0B0F14,stroke:#3DDC84
-    style VM fill:#4285F4,color:#fff,stroke:#4285F4
-    style UC fill:#7F52FF,color:#fff,stroke:#7F52FF
-    style Repo fill:#1E2D3D,color:#E6EDF3,stroke:#4B5563
-    style API fill:#0d1a2a,color:#3DDC84,stroke:#3DDC84
-    style DB fill:#0d1a2a,color:#4285F4,stroke:#4285F4
-```
-
----
+<br/>
 
 ## Currently Syncing
 
@@ -130,28 +136,18 @@ flowchart LR
 #### 📖 [How FotMob leveraged cross-device discovery to score record Wear OS adoption](https://android-developers.googleblog.com/2026/05/fotmob-wear-os-adoption-cross-device-discovery.html)
 <!--END_SECTION:learn-->
 
----
+<br/>
 
 ## Stats & Activity
 
 <div align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jamie10X&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamie10X&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  </a>
-
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamie10X&theme=tokyonight&utc_offset=+5"/>
-  </a>
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jamie10X&bg_color=1a1b27&color=c0caf5&line=3DDC84&point=4285F4&area=true&hide_border=true"/>
-  </a>
-
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jamie10X&show_icons=true&theme=tokyonight&hide_border=true"/>
+  &nbsp;&nbsp;
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamie10X&layout=compact&theme=tokyonight&hide_border=true"/>
+  <br/><br/>
+  <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamie10X&theme=tokyonight&utc_offset=5"/>
+  &nbsp;&nbsp;
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jamie10X&bg_color=1a1b27&color=c0caf5&line=3DDC84&point=4285F4&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -172,7 +168,7 @@ flowchart LR
   </a>
 </div>
 
----
+<br/>
 
 <div align="center">
   <sub>Open to Android, Flutter, and backend collaboration.</sub>
