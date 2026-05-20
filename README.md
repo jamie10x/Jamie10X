@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [How FotMob leveraged cross-device discovery to score record Wear OS adoption](https://android-developers.googleblog.com/2026/05/fotmob-wear-os-adoption-cross-device-discovery.html)
+#### 📖 [17 Things to know for Android developers at Google I/O](https://android-developers.googleblog.com/2026/05/17-things-android-developers-google-io.html)
 <!--END_SECTION:learn-->
 
 <br/>
