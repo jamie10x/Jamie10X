@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [17 Things to know for Android developers at Google I/O](https://android-developers.googleblog.com/2026/05/17-things-android-developers-google-io.html)
+#### 📖 [Top AI on Android updates for building intelligent experiences from Google I/O ‘26](https://android-developers.googleblog.com/2026/05/android-ai-intelligence-system.html)
 <!--END_SECTION:learn-->
 
 <br/>
