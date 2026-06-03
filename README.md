@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Top AI on Android updates for building intelligent experiences from Google I/O ‘26](https://android-developers.googleblog.com/2026/05/android-ai-intelligence-system.html)
+#### 📖 [Prioritizing Memory Efficiency: Essential Steps for Android 17](https://android-developers.googleblog.com/2026/06/prioritizing-memory-efficiency-steps-for-android-17.html)
 <!--END_SECTION:learn-->
 
 <br/>
