@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Datadog delivers millions of in-depth performance insights with ProfilingManager](https://android-developers.googleblog.com/2026/06/datadog-profilingmanager-performance-insights.html)
+#### 📖 [Top 3 updates for Android developer productivity](https://android-developers.googleblog.com/2026/06/android-developer-productivity-updates.html)
 <!--END_SECTION:learn-->
 
 <br/>
