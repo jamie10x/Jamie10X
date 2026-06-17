@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [What’s New in Android XR: Tooling, Engine Support, and Ecosystem Updates](https://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html)
+#### 📖 [Android 17 is here](https://android-developers.googleblog.com/2026/06/Android-17.html)
 <!--END_SECTION:learn-->
 
 <br/>
