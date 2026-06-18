@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Android 17 is here](https://android-developers.googleblog.com/2026/06/Android-17.html)
+#### 📖 [Building a Mixed-Reality Tour Guide with Android XR, the Geospatial API, and Gemini](https://android-developers.googleblog.com/2026/06/android-xr-geospatial-api-gemini.html)
 <!--END_SECTION:learn-->
 
 <br/>
