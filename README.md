@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Google Play launches the first Indie Games Fund in Africa](https://android-developers.googleblog.com/2026/07/Indie-Games-Fund-Africa.html)
+#### 📖 [Evolving how LLMs are measured for Android: the next era of Android Bench](https://android-developers.googleblog.com/2026/07/android-bench-llm-measurement.html)
 <!--END_SECTION:learn-->
 
 <br/>
