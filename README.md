@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Evolving how LLMs are measured for Android: the next era of Android Bench](https://android-developers.googleblog.com/2026/07/android-bench-llm-measurement.html)
+#### 📖 [Android Studio Quail 2 is Stable: Multi-task with the Android Studio AI agent](https://android-developers.googleblog.com/2026/06/android-studio-quail-2-stable-features.html)
 <!--END_SECTION:learn-->
 
 <br/>
