@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Android Studio Quail 2 is Stable: Multi-task with the Android Studio AI agent](https://android-developers.googleblog.com/2026/06/android-studio-quail-2-stable-features.html)
+#### 📖 [Upcoming Changes to the Nearby Connections API](https://android-developers.googleblog.com/2026/07/upcoming-changes-nearby-connections-api.html)
 <!--END_SECTION:learn-->
 
 <br/>
