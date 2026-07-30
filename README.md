@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Celebrating 5 years of Jetpack Compose](https://android-developers.googleblog.com/2026/07/five-years-of-jetpack-compose.html)
+#### 📖 [Delivering safer, age-appropriate experiences on Google Play](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html)
 <!--END_SECTION:learn-->
 
 <br/>
