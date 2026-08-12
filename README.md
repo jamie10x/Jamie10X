@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Inside Android Skills - Built for deprecation](https://android-developers.googleblog.com/2026/08/android-skills-philosophy.html)
+#### 📖 [Media3 1.11 - What's new?](https://android-developers.googleblog.com/2026/08/media3-1-11-whats-new.html)
 <!--END_SECTION:learn-->
 
 <br/>
