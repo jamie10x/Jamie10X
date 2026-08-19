@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Enhance your app for the new Pixel lineup: Unveiled at Made by Google](https://android-developers.googleblog.com/2026/08/pixel-app-experience-made-by-google.html)
+#### 📖 [Tinder cuts app cold starts by 47% with new R8 Configuration Analyzer](https://android-developers.googleblog.com/2026/08/tinder-app-cold-start-r8-configuration-analyzer.html)
 <!--END_SECTION:learn-->
 
 <br/>
