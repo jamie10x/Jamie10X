@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Tinder cuts app cold starts by 47% with new R8 Configuration Analyzer](https://android-developers.googleblog.com/2026/08/tinder-app-cold-start-r8-configuration-analyzer.html)
+#### 📖 [Preparing your app for broader memory limits](https://android-developers.googleblog.com/2026/08/app-broader-memory-limits.html)
 <!--END_SECTION:learn-->
 
 <br/>
