@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Elevating app quality: Reducing memory usage and improving device migration](https://android-developers.googleblog.com/2026/08/app-quality-memory-optimization-secure-onboarding.html)
+#### 📖 [How WhatsApp Upgraded to Secure, Seamless Sign-In for 1 Billion Users with Passkeys](https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html)
 <!--END_SECTION:learn-->
 
 <br/>
