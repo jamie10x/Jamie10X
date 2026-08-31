@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [How WhatsApp Upgraded to Secure, Seamless Sign-In for 1 Billion Users with Passkeys](https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html)
+#### 📖 [Emulator control for adaptive app development](https://android-developers.googleblog.com/2026/08/emulator-adaptive.html)
 <!--END_SECTION:learn-->
 
 <br/>
