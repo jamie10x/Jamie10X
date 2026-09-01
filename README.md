@@ -133,7 +133,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Emulator control for adaptive app development](https://android-developers.googleblog.com/2026/08/emulator-adaptive.html)
+#### 📖 [Leverage Android skills and Gemma 4 in Android Studio Quail 4](https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html)
 <!--END_SECTION:learn-->
 
 <br/>
