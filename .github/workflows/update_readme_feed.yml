@@ -1,5 +1,5 @@
 # .github/workflows/update_readme_feed.yml
-name: Update README with Latest Blog Post
+name: Update Profile Blog and Activity Graph
 
 on:
   schedule:
@@ -27,7 +27,17 @@ jobs:
         run: pip install feedparser
 
       - name: Run Python script to update README
+        # A blog outage must not prevent the independent graph refresh.
+        continue-on-error: true
         run: python ./scripts/update_readme.py
+
+      - name: Test contribution graph generation
+        run: python -m unittest discover -s scripts -p 'test_*.py'
+
+      - name: Refresh contribution graph
+        # A failed upstream fetch leaves the last verified graph available.
+        continue-on-error: true
+        run: python ./scripts/update_activity_graph.py
 
       - name: Commit and push changes
         run: |
@@ -36,12 +46,12 @@ jobs:
           git config --local user.name "GitHub Action"
           
           # Add the changed file
-          git add README.md
+          git add README.md assets/activity-graph.svg
           
           # Check if there are changes to commit
           if ! git diff-index --quiet HEAD; then
             # Commit the changes
-            git commit -m "chore: Update latest Android blog post"
+            git commit -m "chore(profile): refresh blog and activity graph"
 
             git pull --rebase --autostash
           

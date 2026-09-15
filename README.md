@@ -47,6 +47,7 @@ Android-focused engineer building mobile applications and complete software prod
 Primary stack: Kotlin, Java, Jetpack Compose, and modern Android architecture.
 
 location           → Namangan, Uzbekistan
+portfolio          → https://jamshiddev.uz
 current            → Software Engineer, Tarmoqda LLC · 2025–Present
                      KMP mobile development, API integration, and cross-team collaboration
 previous           → Freelance Software Engineer · 2021–2025
@@ -190,7 +191,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 <div align="center">
   <img
     alt="Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jamie10x&bg_color=0B0F14&color=E6EDF3&line=3DDC84&point=4285F4&area=true&hide_border=true"
+    src="./assets/activity-graph.svg"
   />
 </div>
 
@@ -216,5 +217,5 @@ problem-solving    →  algorithms, architecture design, product thinking
 
 <div align="center">
   <sub>Open to full-time, remote, freelance, and international opportunities. Open to relocation for the right position.</sub><br/>
-  <sub><a href="mailto:jamshidboynzarov0@gmail.com">Email</a> · <a href="https://t.me/mr_jamshidbeek">Telegram</a> · Résumé: <a href="./assets/resumes/jamshidbek-boynazarov-resume-en.pdf">English</a> · <a href="./assets/resumes/jamshidbek-boynazarov-resume-uz.pdf">O‘zbekcha</a> · <a href="./assets/resumes/jamshidbek-boynazarov-resume-ru.pdf">Русский</a></sub>
+  <sub><a href="https://jamshiddev.uz">Portfolio</a> · <a href="mailto:jamshidboynzarov0@gmail.com">Email</a> · <a href="https://t.me/mr_jamshidbeek">Telegram</a> · Résumé: <a href="./assets/resumes/jamshidbek-boynazarov-resume-en.pdf">English</a> · <a href="./assets/resumes/jamshidbek-boynazarov-resume-uz.pdf">O‘zbekcha</a> · <a href="./assets/resumes/jamshidbek-boynazarov-resume-ru.pdf">Русский</a></sub>
 </div>

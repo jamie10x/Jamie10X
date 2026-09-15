@@ -7,6 +7,13 @@
   Update content inside those sections; do not redesign without an explicit
   request. Experience and education belong in the existing terminal block;
   real projects belong in the existing Featured Builds table.
+- The activity graph image is the approved exception: its former Vercel host
+  returned HTTP 402 / DEPLOYMENT_DISABLED. `assets/activity-graph.svg` now serves
+  that same graph slot, keeping the dark background, green line and blue points.
+  `scripts/update_activity_graph.py` uses GitHub's public contribution calendar,
+  never guesses missing counts, and retains the previous image on fetch/parse
+  failure. The existing 12-hour workflow refreshes it alongside the blog feed.
+  This is a snapshot, not a real-time counter; today's counts may be incomplete.
 - `README.md`: public biography, employment, projects, skills, contact links.
 - `jamie10x-os.svg`: original editable terminal-style banner. Keep essential
   information as README text too, so mobile and screen-reader users can read it.
@@ -22,6 +29,8 @@ The portfolio is the source of truth for personal content. Update its constants
 first, generate all three PDFs, then update this README and copy the PDFs here.
 Employment dates are not project launch dates. Do not add unverified metrics,
 private repository URLs, or a guessed portfolio domain.
+
+The owner-confirmed portfolio URL is `https://jamshiddev.uz`.
 
 In the portfolio checkout:
 
@@ -39,13 +48,15 @@ From this profile checkout, with the portfolio at its current sibling location:
 
 ```sh
 python3 scripts/check-profile.py --portfolio ../glasscube-main
+python3 -m unittest discover -s scripts -p 'test_*.py'
 git diff --check
 git diff -- README.md jamie10x-os.svg
 git status --short
 ```
 
 The check first verifies the original banner and visual sections against Git
-history, then compares identity, employment dates, project statuses, public links,
+history (allowing only the approved graph URL replacement), then compares
+identity, employment dates, project statuses, public links,
 project stacks, language proficiency and all three PDF files against the actual
 portfolio constants. Pass another path to `--portfolio` if the checkout moves.
 Without that option it checks local assets and preservation of the original

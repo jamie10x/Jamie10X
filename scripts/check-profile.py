@@ -13,6 +13,10 @@ def check_original_design(readme):
     # its banner, section order, badges, architecture diagram or activity panels.
     baseline = subprocess.check_output(
         ['git', 'show', '67d07d6:README.md'], cwd=ROOT, text=True)
+    # The sole approved image replacement: the external graph host is disabled.
+    baseline = baseline.replace(
+        'https://github-readme-activity-graph.vercel.app/graph?username=jamie10x&bg_color=0B0F14&color=E6EDF3&line=3DDC84&point=4285F4&area=true&hide_border=true',
+        './assets/activity-graph.svg')
     original_banner = subprocess.check_output(
         ['git', 'show', '67d07d6:jamie10x-os.svg'], cwd=ROOT)
     assert (ROOT / 'jamie10x-os.svg').read_bytes() == original_banner, 'Original banner changed'
@@ -35,6 +39,9 @@ def main():
     args = parser.parse_args()
     readme = (ROOT / 'README.md').read_text()
     check_original_design(readme)
+    assert 'href="https://jamshiddev.uz"' in readme, 'Missing confirmed portfolio link'
+    graph = (ROOT / 'assets/activity-graph.svg').read_text()
+    assert graph.count('<circle ') == 31, 'Expected 31 daily activity points'
     for marker in ['<!--START_SECTION:learn-->', '<!--END_SECTION:learn-->']:
         assert readme.count(marker) == 1, f'Missing or duplicated blog marker: {marker}'
     assert readme.index('<!--START_SECTION:learn-->') < readme.index('<!--END_SECTION:learn-->')
