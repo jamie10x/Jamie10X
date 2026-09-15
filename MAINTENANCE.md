@@ -2,6 +2,11 @@
 
 ## Edit points
 
+- Preserve the original profile design from commit `67d07d6`: banner, summary
+  table, section order, badge rows, architecture diagram and visible stats.
+  Update content inside those sections; do not redesign without an explicit
+  request. Experience and education belong in the existing terminal block;
+  real projects belong in the existing Featured Builds table.
 - `README.md`: public biography, employment, projects, skills, contact links.
 - `jamie10x-os.svg`: original editable terminal-style banner. Keep essential
   information as README text too, so mobile and screen-reader users can read it.
@@ -39,10 +44,12 @@ git diff -- README.md jamie10x-os.svg
 git status --short
 ```
 
-The check compares identity, employment dates, project statuses, public links,
+The check first verifies the original banner and visual sections against Git
+history, then compares identity, employment dates, project statuses, public links,
 project stacks, language proficiency and all three PDF files against the actual
 portfolio constants. Pass another path to `--portfolio` if the checkout moves.
-Without that option it checks local assets and README structure only.
+Without that option it checks local assets and preservation of the original
+design only. Retain Git history when running the design check.
 
 Review changes before staging or publishing. Updating these local files does
 not change the public GitHub profile until the repository changes are pushed.
