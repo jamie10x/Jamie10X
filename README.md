@@ -145,7 +145,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Introducing the AndroidX Security State Libraries: A Unified View of Device Security](https://android-developers.googleblog.com/2026/09/introducing-androidx-security-state-libraries.html)
+#### 📖 [Bring your Android game to the car screen today](https://android-developers.googleblog.com/2026/09/bring-android-game-to-car-screen.html)
 <!--END_SECTION:learn-->
 
 <br/>
