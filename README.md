@@ -145,7 +145,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Land your apps on Googlebook with adaptive development](https://android-developers.googleblog.com/2026/09/adaptive-development-scale-app-googlebook.html)
+#### 📖 [Build your way: Use any AI agent of your choice in Android Studio](https://android-developers.googleblog.com/2026/09/build-your-way-use-any-ai-agent-in-android-studio.html)
 <!--END_SECTION:learn-->
 
 <br/>
