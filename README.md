@@ -145,7 +145,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Build intelligent Android apps: In-app agentic workflows](https://android-developers.googleblog.com/2026/09/android-agentic-workflows.html)
+#### 📖 [Driving growth on Google Play: The next era of subscriptions](https://android-developers.googleblog.com/2026/09/unlocking-Google-play-subscription-growth.html)
 <!--END_SECTION:learn-->
 
 <br/>
