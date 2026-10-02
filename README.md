@@ -145,7 +145,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [How Instagram Direct engineers built AI-native UI architecture with Jetpack Compose and reduced token cost per agent session by 33%](https://android-developers.googleblog.com/2026/09/jetpack-compose-ai-native-ui-instagram-direct.html)
+#### 📖 [Device Streaming and Android skills - available in Android CLI](https://android-developers.googleblog.com/2026/10/android-cli-device-streaming-and-skills.html)
 <!--END_SECTION:learn-->
 
 <br/>
