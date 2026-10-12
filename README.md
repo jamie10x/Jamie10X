@@ -145,7 +145,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Device Streaming and Android skills - available in Android CLI](https://android-developers.googleblog.com/2026/10/android-cli-device-streaming-and-skills.html)
+#### 📖 [Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development](https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html)
 <!--END_SECTION:learn-->
 
 <br/>
