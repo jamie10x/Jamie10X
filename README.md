@@ -145,7 +145,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development](https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html)
+#### 📖 [New ways to drive smarter discovery, deeper engagement, and business growth on Google Play](https://android-developers.googleblog.com/2026/10/new-tools-for-discovery-and-engagement.html)
 <!--END_SECTION:learn-->
 
 <br/>
