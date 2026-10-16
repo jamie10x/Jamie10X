@@ -145,7 +145,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [Android Developers Blog is moving](https://android-developers.googleblog.com/2026/10/android-developers-blog-is-moving.html)
+#### 📖 [Bringing our latest frontier model to Android Developers](https://developer.android.com/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli)
 <!--END_SECTION:learn-->
 
 <br/>
