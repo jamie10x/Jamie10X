@@ -145,7 +145,7 @@ problem-solving    →  algorithms, architecture design, product thinking
 *Auto-updating with the latest from the Android Developers Blog.*
 
 <!--START_SECTION:learn-->
-#### 📖 [New ways to drive smarter discovery, deeper engagement, and business growth on Google Play](https://android-developers.googleblog.com/2026/10/new-tools-for-discovery-and-engagement.html)
+#### 📖 [Android Developers Blog is moving](https://android-developers.googleblog.com/2026/10/android-developers-blog-is-moving.html)
 <!--END_SECTION:learn-->
 
 <br/>
